@@ -3,7 +3,6 @@ name: Franco Di Leo - Blog
 on:
   push:
     branches: [main]
-  pull_request: branges: [main]
 
 jobs:
   build:
