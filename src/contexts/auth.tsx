@@ -1,4 +1,4 @@
-import React, { createContext, useEffect, useState } from "react";
+import React, { createContext, useState } from "react";
 import { iLogin } from "../types/Login";
 import { iAuth, defaultState } from "../types/Auth";
 import { mockAuth } from "../mocks/auth";
